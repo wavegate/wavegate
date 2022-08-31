@@ -1,8 +1,8 @@
-### Frank's GitHub Profile
+# Frank's GitHub Profile
 
 I'll use this area to keep track of my web development learning process. Areas will be divided into ??? (I don't know what it is), exposure (I've heard of it), usage (I know what it does and I've used it at least once), familiarity (I've used it in a variety of situations), mastery (I've been challenged in it), professional (I make money with it)
 
-# Frontend
+## Frontend
 - The Internet (HTTP, browsers, WWW, DNS) - Exposure
 - HTML (semantics, forms and validations, conventions and best practices) - Familiarity
 - CSS (responsive design and media queries, positioning, flexbox/grid, box model) - Familiarity
@@ -28,3 +28,42 @@ I'll use this area to keep track of my web development learning process. Areas w
 - Mobile applications (React Native, Flutter) - Exposure
 - Desktop applications (Electron) - Exposure
 - Web assembly - ???
+
+## Backend
+- Operating systems - ???
+- Networking basics - ???
+- Terminal usage - Usage
+- Process management - ???
+- Threads and concurrency - ???
+- I/O management - ???
+- Memory management - ???
+- Interprocess communication - ??
+- POSIX basics - ???
+- Backend languages
+  - Java - Usage
+  - Rust - ???
+  - Go - ???
+  - JavaScript - Familiarity
+  - C# - Exposure
+  - PHP - Exposure
+  - Python - Usage
+  - Ruby - Exposure
+- Relational databases (PostgreSQL, MySQL, MariaDB, MS SQL, Oracle) - Usage
+- Databases+ (ORMs, ACID, Transactions, N+1 problem, Database normalization, Indexes, Data Replication, Sharding startegies, CAP theorem) - ???
+- NoSQL databases (MongoDB, Cassandra, InfluxDB, Firebase) - Exposure
+- APIs (Authentication - OAuth, Basic authentication, Token authentication, JWT, REST, JSON APIs, gRPC) - Usage
+- Caching (CDN, Redis, Client side) - Usage
+- Testing (Integration testing, Unit testing, Functional testing) - Exposure
+- CI/CD - ???
+- Design and Development Principles (SOLID, KISS, YAGNI, DRY) - ???
+- Search engines (Elasticsearch) - Exposure
+- Architectural patterns (Monolithic apps, Microservices, SOA, Serverless) - ???
+- Message brokers (RabbitMQ, Kafka) - ???
+- Containerization vs Virtualization (Docker) - Exposure
+- Graph databases (Neo4j) - Exposure
+- WebSockets - ???
+- Web Servers (Nginx, Apache, Caddy, MS IIS) - ???
+- Building for scale (Mitigation, Migration strategies, Horizontal and vertical scaling, Metrics) - Exposure
+
+## Processes
+- 8/31/2022 - Learning npm and Webpack
