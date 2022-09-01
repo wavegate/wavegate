@@ -67,3 +67,4 @@ I'll use this area to keep track of my web development learning process. Areas w
 
 ## Processes
 - 8/31/2022 - npm, Webpack usage, CI exposure
+- 9/1/2022 - working on Indeed web dev scraper
