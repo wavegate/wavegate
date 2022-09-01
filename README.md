@@ -54,7 +54,7 @@ I'll use this area to keep track of my web development learning process. Areas w
 - APIs (Authentication - OAuth, Basic authentication, Token authentication, JWT, REST, JSON APIs, gRPC) - Usage
 - Caching (CDN, Redis, Client side) - Usage
 - Testing (Integration testing, Unit testing, Functional testing) - Exposure
-- CI/CD - ???
+- CI/CD - Exposure
 - Design and Development Principles (SOLID, KISS, YAGNI, DRY) - ???
 - Search engines (Elasticsearch) - Exposure
 - Architectural patterns (Monolithic apps, Microservices, SOA, Serverless) - ???
@@ -66,4 +66,4 @@ I'll use this area to keep track of my web development learning process. Areas w
 - Building for scale (Mitigation, Migration strategies, Horizontal and vertical scaling, Metrics) - Exposure
 
 ## Processes
-- 8/31/2022 - Learning npm and Webpack
+- 8/31/2022 - npm, Webpack usage, CI exposure
