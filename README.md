@@ -73,3 +73,5 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 9/4-14/2022 - coding assessments, LeetCode, and interviews
 - 9/14/2022 - continuing LeetCode
 - 9/15/22 - easy Array questions, exposure to bit manipulation
+- 10/25/22 - Beaconfire training (HTML, CSS, JS)
+- 10/25/22 - Figma design tutorial
