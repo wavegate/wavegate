@@ -76,3 +76,4 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 10/25/22 - training (HTML, CSS, JS)
 - 10/25/22 - Figma design tutorial
 - 11/9/22 - training (web security (CSRF/XSS/SQL/clickjacking), databases (MongoDB) usage, TypeScript usage, testing (Mocha/Chai usage))
+- 11/15/22 - training (React, Redux)
