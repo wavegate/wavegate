@@ -78,3 +78,4 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 11/9/22 - training (web security (CSRF/XSS/SQL/clickjacking), databases (MongoDB) usage, TypeScript usage, testing (Mocha/Chai usage))
 - 11/15/22 - training (React, Redux)
 - 11/22/22 - training (Git collaboration, JIRA, Agile/SCRUM), prerequisites for DevOps, looking at Redux Toolkit, React Hook Form, Vite, microfrontends
+- 11/25/22 - more practice with MUI
