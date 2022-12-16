@@ -80,3 +80,4 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 11/22/22 - training (Git collaboration, JIRA, Agile/SCRUM), prerequisites for DevOps, looking at Redux Toolkit, React Hook Form, Vite, microfrontends
 - 11/25/22 - more practice with MUI, quick intro to WASM
 - 12/2/22 - learning AntDesign
+- 12/16/22 - MERN review, learning UmiJSv4, exposure to Prisma, working on web scraper
