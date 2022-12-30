@@ -129,7 +129,19 @@ I'll use this area to keep track of my web development learning process. Areas w
     - Azure DevOps Services - ???
     - Circle CI - Exposure
     - Drone - ???
-    
+- Monitoring
+  - Infrastructure (Prometheus, Nagios, Grafana, Zabbix, Monit, Datadog) - Exposure
+  - Application (Jaeger, New Relic, AppDynamics, Instana, OpenTelemetry) - ???
+  - Logs (Elastic Stack, Graylog, Splunk, Papertrail, Loki) - ???
+- Cloud
+  - AWS - Exposure
+  - Google Cloud - Exposure
+  - Alibaba Cloud - ???
+  - Digital Ocean - Exposure
+  - Azure - Exposure
+  - Linode - Exposure
+- Cloud design
+  - Availability, data mangaement, design and implementation, management and monitoring - ???
 
 ## Processes
 - 8/31/2022 - npm, Webpack usage, CI exposure
