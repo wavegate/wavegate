@@ -81,3 +81,4 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 11/25/22 - more practice with MUI, quick intro to WASM
 - 12/2/22 - learning AntDesign
 - 12/16/22 - MERN review, learning UmiJSv4, exposure to Prisma, working on web scraper, LeetCode review
+- 12/30/22 - Crash course on general CS topics: logic gates, binary, ALU, Registers/RAM, CPU, OS, memory/storage; intro to DevOps (CI, linting, ephemeral environments, containers, Canary deploment, service discovery, log aggregation, metrics)
