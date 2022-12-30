@@ -89,8 +89,47 @@ I'll use this area to keep track of my web development learning process. Areas w
   - Ubuntu / Debian - Usage
   - SUSE Linux - ???
   - RHEL / Derivatives - ???
-  - Terminal
-    - Bash scripting - Exposure
+  - FreeBSD - ???
+  - OpenBSD - ???
+  - NetBSD - ???
+- Terminal
+  - Bash scripting - Exposure
+  - Vim/Nano/PowerShell/Emacs - Usage
+  - Terminal multiplexers (screen, tmux) - ???
+  - Process monitoring (ps, top, htop, atop, lsof) - ???
+  - System performance (nmon, iostat, sar, vmstat) - ???
+  - Network tools (traceorute, mtr, ping, nmap, netstat, ufw/firewalld, tcpdump, iptables/nftables, dig, scp) - ???
+  - Text manipulation (awk, sed, grep, sort, cut, uniq, cat, echo, fmt, tr, nl, wc) - ???
+  - strace, dtrace, systemtap, uname, df, history, du - ???
+- Networking, security, and protocols
+  - OSI Model, DNS - Exposure
+  - Emails (SMTP, IMAPS, POP3S, White/grey listing) - Usage
+  - HTTP, HTTP, FTP/SFTP, SSL/TLS, SSH, Port forwarding - Exposure
+  - DMARC, SPF, Domain keys - ???
+- Reverse proxy - Exposure
+- Caching server - ???
+- Forward proxy - ???
+- Load balancer - Exposure
+- Firewall - ???
+- Web server (Nginx, Apache, Tomcat, IIS) - Exposure
+- Infrastructure as code
+  - Containers (Docker, LXC) - Usage
+  - GitOps (ArgoCD, FluxCD) - ???
+  - Service mesh (Istio, Consul, Linkerd, Envoy) - ???
+  - Secret management (Vault, SOPS, Sealed Secrets, cloud specific tools) - ???
+  - Container orchestration (Kubernetes, Docker Swarm, Nomad) - Exposure
+  - Configuration management (Ansible, Chef, Puppet) - Exposure
+  - Infrastructure provisioning (Terraform, AWS CDK, CloudFormation, Pulumi) - Exposure
+- CI/CD tools
+    - Gitlab CI - ???
+    - Jenkins - Exposure
+    - GitHub Actions - Exposure
+    - Travis CI - ???
+    - TeamCity - ???
+    - Azure DevOps Services - ???
+    - Circle CI - Exposure
+    - Drone - ???
+    
 
 ## Processes
 - 8/31/2022 - npm, Webpack usage, CI exposure
