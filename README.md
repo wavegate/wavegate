@@ -2,6 +2,19 @@
 
 I'll use this area to keep track of my web development learning process. Areas will be divided into ??? (I don't know what it is), exposure (I've heard of it), usage (I know what it does and I've used it at least once), familiarity (I've used it in a variety of situations), mastery (I've been challenged in it), professional (I make money with it)
 
+## UI/UX
+- Web design (Adaptive web design, responsive web design, mobile-first design) - Familiarity
+- Mobile design (Google material design guidelines, Apple iOS human interface guidelines) - ???
+- Accessibility - WCAG Guidelines - Exposure
+- Wireframing (Balsamiq, Figma, Mockflow) - Usage
+- Prototyping tools (Axure, Adobe XD, Figma, Sketch) - Usage
+- Interaction design (Figma, Framer, Protopie) - Usage
+- Shipping designs (Avocode, Zeplin) - ???
+- Vector graphics/icons (Illustrator, CorelDRAW) - Usage
+- 3D (Spline) - Usage
+- Design systems
+- https://uxchecklist.github.io/
+
 ## Frontend
 - The Internet (HTTP, browsers, WWW, DNS) - Exposure
 - HTML (semantics, forms and validations, conventions and best practices) - Familiarity
@@ -160,3 +173,4 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 12/2/22 - learning AntDesign
 - 12/16/22 - MERN review, learning UmiJSv4, exposure to Prisma, working on web scraper, LeetCode review
 - 12/30/22 - Crash course on general CS topics: logic gates, binary, ALU, Registers/RAM, CPU, OS, memory/storage; intro to DevOps (CI, linting, ephemeral environments, containers, Canary deploment, service discovery, log aggregation, metrics)
+- HCI course completed, next up is Intro to Info Security and Advanced Internet Applications
