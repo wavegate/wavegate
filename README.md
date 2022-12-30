@@ -30,7 +30,7 @@ I'll use this area to keep track of my web development learning process. Areas w
 - Web assembly - ???
 
 ## Backend
-- Operating systems - ???
+- Operating systems - Exposure
 - Networking basics - ???
 - Terminal usage - Usage
 - Process management - ???
@@ -64,6 +64,33 @@ I'll use this area to keep track of my web development learning process. Areas w
 - WebSockets - ???
 - Web Servers (Nginx, Apache, Caddy, MS IIS) - ???
 - Building for scale (Mitigation, Migration strategies, Horizontal and vertical scaling, Metrics) - Exposure
+
+## DevOps
+- Programming languages
+  - Python - Usage
+  - Ruby - Exposure
+  - JavaScript / Node.js - Familiarity
+  - Go - Exposure
+  - Rust - Exposure
+- OS Concepts
+  - Networking - ???
+  - POSIX - ???
+  - I/O Management - ???
+  - Virtualization - ???
+  - Memory/Storage - Exposure
+  - File systems - Exposure
+  - Startup Management (initd) - ???
+  - Service Management (systemd) - ???
+  - Threads and concurrency - ???
+  - Sockets - Exposure
+  - Processes - ???
+- Operating system
+  - Windows - Familiarity
+  - Ubuntu / Debian - Usage
+  - SUSE Linux - ???
+  - RHEL / Derivatives - ???
+  - Terminal
+    - Bash scripting - Exposure
 
 ## Processes
 - 8/31/2022 - npm, Webpack usage, CI exposure
