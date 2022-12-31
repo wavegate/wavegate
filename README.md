@@ -3,6 +3,32 @@
 I'll use this area to keep track of my web development learning process. Areas will be divided into ??? (I don't know what it is), exposure (I've heard of it), usage (I know what it does and I've used it at least once), familiarity (I've used it in a variety of situations), mastery (I've been challenged in it), professional (I make money with it)
 
 ## UI/UX
+- Competitive analysis
+- Data anlysis
+- User feedback
+- User stories
+- User flows
+- Red routes
+- Brainstorming & sketching
+- Wireframing
+- Prototyping
+- IA
+- Language
+- Accessibility
+- Sustainability
+- Ethics
+- Inclusivity
+- UI elements
+- Gestures
+- Responsiveness
+- Waiting times
+- Images/icons
+- Font & color hierarchy
+- Micro copy
+- Microinteractions
+- Transitions
+- KPI setup
+- AB test/testing
 - Web design (Adaptive web design, responsive web design, mobile-first design) - Familiarity
 - Mobile design (Google material design guidelines, Apple iOS human interface guidelines) - ???
 - Accessibility - WCAG Guidelines - Exposure
