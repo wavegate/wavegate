@@ -201,3 +201,4 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 12/30/22 - Crash course on general CS topics: logic gates, binary, ALU, Registers/RAM, CPU, OS, memory/storage; intro to DevOps (CI, linting, ephemeral environments, containers, Canary deploment, service discovery, log aggregation, metrics)
 - 12/30/22 - HCI course completed, next up is Intro to Info Security and Advanced Internet Applications
 - 1/1/23 - Started AWS CCP online course
+- 1/7/23 - Ready for CCP exam
