@@ -202,3 +202,4 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 12/30/22 - HCI course completed, next up is Intro to Info Security and Advanced Internet Applications
 - 1/1/23 - Started AWS CCP online course
 - 1/7/23 - Ready for CCP exam
+- 1/8/23 - Starting CCNA prep, learning Framer Motion
