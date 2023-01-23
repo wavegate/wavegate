@@ -66,7 +66,7 @@ I'll use this area to keep track of my web development learning process. Areas w
 - Static site generators (Next.js, GatsbyJS) - Exposure
 - Mobile applications (React Native, Flutter) - Exposure
 - Desktop applications (Electron) - Exposure
-- Web assembly - ???
+- Web assembly - Exposure
 
 ## Backend
 - Operating systems - Exposure
