@@ -56,10 +56,10 @@ I'll use this area to keep track of my web development learning process. Areas w
 - Frontend frameworks (React, Angular, Vue) - Usage
 - Redux - Exposure
 - Modern CSS (Styled Components, CSS Modules, Styled JSX, Emotion) - Exposure
-- Web Components (HTML Templates, Custom Elements, Shadow DOM) - ???
+- Web Components (HTML Templates, Custom Elements, Shadow DOM) - Exposure
 - CSS Frameworks (Bootstrap, Bulma, Tailwind CSS, Chakra UI, Material UI, Radix UI) - Exposure
-- Testing (Jest, react-testing-library, Cypress, Enzyme) - ???
-- Type Checkers (TypeScript) - Exposure
+- Testing (Jest, react-testing-library, Cypress, Enzyme) - Usage
+- Type Checkers (TypeScript) - Familiarity
 - Progressive Web Apps (Storage, Web sockets, Service workers, Location, Notifications, Device orientation, Payments, Credentials, PRPL Pattern, RAIL model, Performance metrics, Ligthhouse, DevTools) - Exposure
 - Server side rendering (Next.js) - Exposure
 - GraphQL (Apollo) - Exposure
@@ -206,3 +206,4 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 1/9/23 - Started frontend position using React, Redux, Tailwind
 - 1/17/23 - Started learning SolidJS, continued learning microFE, web crawler system design (coursework), Wireshark MiTM attacks (coursework)\
 - 1/22/23 - Learned about web crawlers, P2P, location-based services (coursework)
+- 1/23/23 - Exposure to web components and shadow DOM
