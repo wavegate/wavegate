@@ -204,4 +204,5 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 1/7/23 - Ready for CCP exam
 - 1/8/23 - Starting CCNA prep, learning Framer Motion
 - 1/9/23 - Started frontend position using React, Redux, Tailwind
-- 1/17/23 - Started learning SolidJS, continued learning microFE, web crawler system design (coursework), Wireshark MiTM attacks (coursework)
+- 1/17/23 - Started learning SolidJS, continued learning microFE, web crawler system design (coursework), Wireshark MiTM attacks (coursework)\
+- 1/22/23 - Learned about web crawlers, P2P, location-based services (coursework)
