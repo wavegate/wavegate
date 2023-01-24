@@ -206,4 +206,4 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 1/9/23 - Started frontend position using React, Redux, Tailwind
 - 1/17/23 - Started learning SolidJS, continued learning microFE, web crawler system design (coursework), Wireshark MiTM attacks (coursework)\
 - 1/22/23 - Learned about web crawlers, P2P, location-based services (coursework)
-- 1/23/23 - Exposure to web components and shadow DOM
+- 1/23/23 - Exposure to web components and shadow DOM, learning NextJS
