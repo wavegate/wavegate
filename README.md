@@ -2,6 +2,36 @@
 
 I'll use this area to keep track of my web development learning process. Areas will be divided into ??? (I don't know what it is), exposure (I've heard of it), usage (I know what it does and I've used it at least once), familiarity (I've used it in a variety of situations), mastery (I've been challenged in it), professional (I make money with it)
 
+## Processes
+- 8/31/2022 - npm, Webpack usage, CI exposure
+- 9/1/2022 - working on Indeed web dev scraper
+- 9/2/2022 - learning MySQL, creating and connecting to an EC2 instance (AWS)
+- 9/3/2022 - learning SQL
+- 9/4-14/2022 - coding assessments, LeetCode, and interviews
+- 9/14/2022 - continuing LeetCode
+- 9/15/22 - easy Array questions, exposure to bit manipulation
+- 10/25/22 - training (HTML, CSS, JS)
+- 10/25/22 - Figma design tutorial
+- 11/9/22 - training (web security (CSRF/XSS/SQL/clickjacking), databases (MongoDB) usage, TypeScript usage, testing (Mocha/Chai usage))
+- 11/15/22 - training (React, Redux)
+- 11/22/22 - training (Git collaboration, JIRA, Agile/SCRUM), Amazon S3 file uploads, prerequisites for DevOps, looking at Redux Toolkit, React Hook Form, Vite, microfrontends
+- 11/25/22 - more practice with MUI, quick intro to WASM
+- 12/2/22 - learning AntDesign
+- 12/16/22 - MERN review, learning UmiJSv4, exposure to Prisma, working on web scraper, LeetCode review
+- 12/30/22 - Crash course on general CS topics: logic gates, binary, ALU, Registers/RAM, CPU, OS, memory/storage; intro to DevOps (CI, linting, ephemeral environments, containers, Canary deploment, service discovery, log aggregation, metrics)
+- 12/30/22 - HCI course completed, next up is Intro to Info Security and Advanced Internet Applications
+- 1/1/23 - Started AWS CCP online course
+- 1/7/23 - Ready for CCP exam
+- 1/8/23 - Starting CCNA prep, learning Framer Motion
+- 1/9/23 - Started frontend position using React, Redux, Tailwind
+- 1/17/23 - Started learning SolidJS, continued learning microFE, web crawler system design (coursework), Wireshark MiTM attacks (coursework)\
+- 1/22/23 - Learned about web crawlers, P2P, location-based services (coursework)
+- 1/23/23 - Exposure to web components and shadow DOM, learning NextJS
+- 2/5/23 - Usage of React DND for drag-and-drop, learning about crowdsourcing (coursework), vim, review of flex/grid
+- 2/18/23 - Bitcoin/blockchain, XSRF, XSS, SQLi (coursework)
+
+# TO DO
+
 ## UI/UX
 - Competitive analysis
 - Data anlysis
@@ -181,31 +211,3 @@ I'll use this area to keep track of my web development learning process. Areas w
   - Linode - Exposure
 - Cloud design
   - Availability, data mangaement, design and implementation, management and monitoring - ???
-
-## Processes
-- 8/31/2022 - npm, Webpack usage, CI exposure
-- 9/1/2022 - working on Indeed web dev scraper
-- 9/2/2022 - learning MySQL, creating and connecting to an EC2 instance (AWS)
-- 9/3/2022 - learning SQL
-- 9/4-14/2022 - coding assessments, LeetCode, and interviews
-- 9/14/2022 - continuing LeetCode
-- 9/15/22 - easy Array questions, exposure to bit manipulation
-- 10/25/22 - training (HTML, CSS, JS)
-- 10/25/22 - Figma design tutorial
-- 11/9/22 - training (web security (CSRF/XSS/SQL/clickjacking), databases (MongoDB) usage, TypeScript usage, testing (Mocha/Chai usage))
-- 11/15/22 - training (React, Redux)
-- 11/22/22 - training (Git collaboration, JIRA, Agile/SCRUM), Amazon S3 file uploads, prerequisites for DevOps, looking at Redux Toolkit, React Hook Form, Vite, microfrontends
-- 11/25/22 - more practice with MUI, quick intro to WASM
-- 12/2/22 - learning AntDesign
-- 12/16/22 - MERN review, learning UmiJSv4, exposure to Prisma, working on web scraper, LeetCode review
-- 12/30/22 - Crash course on general CS topics: logic gates, binary, ALU, Registers/RAM, CPU, OS, memory/storage; intro to DevOps (CI, linting, ephemeral environments, containers, Canary deploment, service discovery, log aggregation, metrics)
-- 12/30/22 - HCI course completed, next up is Intro to Info Security and Advanced Internet Applications
-- 1/1/23 - Started AWS CCP online course
-- 1/7/23 - Ready for CCP exam
-- 1/8/23 - Starting CCNA prep, learning Framer Motion
-- 1/9/23 - Started frontend position using React, Redux, Tailwind
-- 1/17/23 - Started learning SolidJS, continued learning microFE, web crawler system design (coursework), Wireshark MiTM attacks (coursework)\
-- 1/22/23 - Learned about web crawlers, P2P, location-based services (coursework)
-- 1/23/23 - Exposure to web components and shadow DOM, learning NextJS
-- 2/5/23 - Usage of React DND for drag-and-drop, learning about crowdsourcing (coursework), vim, review of flex/grid
-- 2/18/23 - Bitcoin/blockchain, XSRF, XSS, SQLi (coursework)
