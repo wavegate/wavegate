@@ -24,11 +24,15 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 1/7/23 - Ready for CCP exam
 - 1/8/23 - Starting CCNA prep, learning Framer Motion
 - 1/9/23 - Started frontend position using React, Redux, Tailwind
-- 1/17/23 - Started learning SolidJS, continued learning microFE, web crawler system design (coursework), Wireshark MiTM attacks (coursework)\
+- 1/17/23 - Started learning SolidJS, continued learning microFE, web crawler system design (coursework), Wireshark MiTM attacks (coursework)
 - 1/22/23 - Learned about web crawlers, P2P, location-based services (coursework)
 - 1/23/23 - Exposure to web components and shadow DOM, learning NextJS
 - 2/5/23 - Usage of React DND for drag-and-drop, learning about crowdsourcing (coursework), vim, review of flex/grid
 - 2/18/23 - Bitcoin/blockchain, XSRF, XSS, SQLi (coursework)
+- 3/8/23 - sklearn/ML (intro project), XState (exposure)
+
+## Frontend resources
+- clientside.dev, reacterry.com, bigfrontend.dev, frontendmentor.io
 
 # TO DO
 
