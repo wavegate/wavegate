@@ -30,6 +30,7 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 2/5/23 - Usage of React DND for drag-and-drop, learning about crowdsourcing (coursework), vim, review of flex/grid
 - 2/18/23 - Bitcoin/blockchain, XSRF, XSS, SQLi (coursework)
 - 3/8/23 - sklearn/ML (intro project), XState (exposure)
+- 3/9/23 - Javascript Proxy/Valtio (exposure)
 
 ## Frontend resources
 - clientside.dev, reacterry.com, bigfrontend.dev, frontendmentor.io
