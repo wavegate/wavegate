@@ -32,6 +32,7 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 3/8/23 - sklearn/ML (intro project), XState (exposure)
 - 3/9/23 - Javascript Proxy/Valtio (exposure)
 - 3/15/23 - Built HTML emails
+- 3/26/23 - Project Silver Lining (collaborative-filtering application)
 
 ## Frontend resources
 - clientside.dev, reacterry.com, bigfrontend.dev, frontendmentor.io
