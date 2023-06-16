@@ -35,8 +35,8 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 3/26/23 - Project Silver Lining (collaborative-filtering application)
 - 4/17/23 - Docker tutorial
 - 4/19/23 - C intro in prep for operating systems
-- 5/12/23 - Large project (Argos) begins (design phase)
 - 5/20/23 - Learning Next.js, building company landing page
+- 6/16/23 - Continuing to learn JavaScript, introduction to database + SQL (CS163 Berkeley)
 
 ## Frontend resources
 - clientside.dev, reacterry.com, bigfrontend.dev, frontendmentor.io
