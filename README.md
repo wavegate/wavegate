@@ -38,6 +38,7 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 5/20/23 - Learning Next.js, building company landing page, using Framer Motion
 - 6/16/23 - Continuing to learn JavaScript (javascript.info), introduction to database + SQL (CS163 Berkeley), UML diagram (part of software development course)
 - 6/19/23 - Accessibility (exposure)
+- 7/8/23 - Continued JavaScript learning (generics, Proxy/Reflect), exposure to NestJS (usage at work), test specification generation
 
 ## Frontend resources
 - clientside.dev, reacterry.com, bigfrontend.dev, frontendmentor.io
