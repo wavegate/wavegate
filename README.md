@@ -42,6 +42,7 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 8/7/23 - LeetCode grind
 - 8/8/23 - Installed Express server on EC2 instance with Nginx reverse proxy
 - 8/26/23 - Connected EC2 express server to RDS; learning OpenAI embedding/tuning; taking AI class
+- 9/21/23 - Reviewing Javascript.info, GSAP, Figma
 
 ## Frontend resources
 - clientside.dev, reacterry.com, bigfrontend.dev, frontendmentor.io
