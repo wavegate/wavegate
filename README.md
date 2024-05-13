@@ -47,6 +47,8 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 10/22/23 - Continued working on resume builder, started Java Backend learning, preparing portfolio
 - 11/5/23 - Reviewing linear algebra, learning C
 - 12/23/23 - LeetCode, learning about modules
+- 5/13/24 - Graduate Introduction to Operating Systems, Computer Networks complete, starting Machine Learning
+- 5/13/2024 - Building Spring project
 
 ## Frontend resources
 - clientside.dev, reacterry.com, bigfrontend.dev, frontendmentor.io
