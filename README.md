@@ -49,6 +49,8 @@ I'll use this area to keep track of my web development learning process. Areas w
 - 12/23/23 - LeetCode, learning about modules
 - 5/13/24 - Graduate Introduction to Operating Systems, Computer Networks complete, starting Machine Learning
 - 5/13/2024 - Building Spring project
+- 7/1/2024 - Started building Residency Match v2 with AWS Amplify
+- 8/1/2024 - Finished Machine Learning course, started senior web developer position working with Eleventy, Astro, and Sanity, exposure to web analytics and SEO tools
 
 ## Frontend resources
 - clientside.dev, reacterry.com, bigfrontend.dev, frontendmentor.io
